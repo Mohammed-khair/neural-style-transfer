@@ -3,9 +3,9 @@
 This repository contains a Jupyter Notebook that demonstrates Neural Style Transfer (NST) using TensorFlow. NST is a fascinating technique that combines the content of one image with the style of another to create visually appealing artworks.
 
 <p align="center">
-  <img src="images/content.jpg" width="300" />
-  <img src="images/style.jpg" width="300" />
-  <img src="output/image_2500.jpg" width="300" />
+  <img src="images/content.jpg" width="300" height="200" />
+  <img src="images/style.jpg" width="300" height="200" />
+  <img src="output/image_2500.jpg" width="300" height="200" />
 </p>
 
 
